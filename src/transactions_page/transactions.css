@@ -1,0 +1,94 @@
+@font-face {
+    font-family: Pragmatica-ExtraLight;
+    src: url(../assets/Pragmatica-ExtraLight.ttf);
+  }
+
+.month-name{
+    color: #795548FF;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.year-name{
+    font-style: italic;
+    color: #607D8BFF;
+}
+
+.transaction-item-label{
+    display: inline;
+    font-size: 16px;
+}
+
+.transaction-money-value{
+    font-family: Pragmatica-ExtraLight;
+    display: inline;
+    font-size: 16px;
+}
+
+.income{
+    color: #1B5E20FF;
+}
+
+.spendings{
+    color: #0D47A1FF;
+}
+
+.btn-goback{
+    margin-bottom: 12px;
+    color: black;
+    background-color: transparent;
+    border: 1px solid gray;
+}
+
+.btn-goback:hover{
+    color: white;
+    background-color: gray;
+}
+
+.finance-instance{
+    margin-bottom: 8px;
+}
+
+.item-label{
+    font-weight: 500;
+}
+
+.item-money{
+    color: #1B5E20FF;
+    font-family: Pragmatica-ExtraLight;
+}
+
+.item-date{
+    color: 0D47A1FF;
+    font-weight: 300;
+}
+
+.one-month-month{
+    color: #795548FF;
+}
+
+.one-month-year{
+    color: #607D8BFF;
+}
+
+.one-month-income-label{
+    color: #1B5E20FF;
+    font-weight: 400;
+    display: inline;
+}
+.one-month-income-value{
+    font-family: Pragmatica-ExtraLight;
+    display: inline;
+}
+.one-month-spendings-label{
+    font-weight: 400;
+    color: #0D47A1FF;
+    display: inline;
+}
+.one-month-spendings-value{
+    font-family: Pragmatica-ExtraLight;
+    display: inline;
+}
+.one-month-summary{
+    margin-bottom: 18px;
+}

@@ -1,0 +1,39 @@
+@font-face {
+    font-family: Pragmatica-ExtraLight;
+    src: url(../assets/Pragmatica-ExtraLight.ttf);
+  }
+
+.profile-root{
+    margin-top: 18px;
+}
+
+.profile-image{
+    width: 150px;
+    border-radius: 15px;
+    border: 1px solid rgb(106, 124, 223);
+}
+
+.profile-name{
+    margin-bottom: 8px;
+}
+
+.profile-career{
+    color: #607D8BFF;
+}
+
+.summary-label{
+    color: rgb(11, 111, 194);
+}
+
+.summary-item{
+    font-size: 18px;
+}
+
+.summary-item-label{
+    font-weight: 500;
+    display: inline;
+}
+.summary-money-value{
+    font-family: Pragmatica-ExtraLight;
+    display: inline;
+}

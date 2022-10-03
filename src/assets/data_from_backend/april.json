@@ -1,0 +1,38 @@
+{"spendings_instances":[
+    {
+        "date":"12th",
+        "day": "3",
+        "type": "0",
+        "label": "Online work",
+        "amount": "15000"
+    },
+    {
+        "date":"13th",
+        "day": "6",
+        "type": "0",
+        "label": "Daniel's Project",
+        "amount": "3000"
+    },
+    {
+        "date":"14th",
+        "day": "0",
+        "type": "1",
+        "label": "Bought Monitor",
+        "amount": "10000"
+    },
+    {
+        "date":"15th",
+        "day": "2",
+        "type": "1",
+        "label": "Bought sleeping suit",
+        "amount": "3000"
+    },
+    {
+        "date":"16th",
+        "day": "5",
+        "type": "1",
+        "label": "Bought Hoodies",
+        "amount": "2000"
+    }
+]
+}
