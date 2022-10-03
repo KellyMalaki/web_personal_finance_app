@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/KellyMalaki/web_personal_finance_app/static/css/main.4f5623cb.css",
+    "main.js": "/KellyMalaki/web_personal_finance_app/static/js/main.e218587d.js",
+    "static/js/787.bc922a5b.chunk.js": "/KellyMalaki/web_personal_finance_app/static/js/787.bc922a5b.chunk.js",
+    "static/media/kelly_dp.jpg": "/KellyMalaki/web_personal_finance_app/static/media/kelly_dp.287d95ff2eff14373da5.jpg",
+    "static/media/Pragmatica-ExtraLight.ttf": "/KellyMalaki/web_personal_finance_app/static/media/Pragmatica-ExtraLight.794077382d9505e23d72.ttf",
+    "static/media/logo.svg": "/KellyMalaki/web_personal_finance_app/static/media/logo.6ce24c58023cc2f8fd88.svg",
+    "index.html": "/KellyMalaki/web_personal_finance_app/index.html",
+    "main.4f5623cb.css.map": "/KellyMalaki/web_personal_finance_app/static/css/main.4f5623cb.css.map",
+    "main.e218587d.js.map": "/KellyMalaki/web_personal_finance_app/static/js/main.e218587d.js.map",
+    "787.bc922a5b.chunk.js.map": "/KellyMalaki/web_personal_finance_app/static/js/787.bc922a5b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f5623cb.css",
+    "static/js/main.e218587d.js"
+  ]
+}
